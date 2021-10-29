@@ -118,7 +118,8 @@ public class Maze {
         canvas.waitForClick();
 
         // Now call directionalSolve, starting the patronus at whatever Harry's location is.
-        // Return the value that canSolve returns, modified appropriately.
+        // Return the value that directionalSolve returns, modified appropriately.
+        // Hint: there may be an extra character!
 
         return ""; // remove this when you start.
     }
